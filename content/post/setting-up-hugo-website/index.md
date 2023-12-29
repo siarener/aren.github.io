@@ -7,7 +7,7 @@ type: post
 ---
 ### Intro
 
-First steps into getting a static website running. Probably this is the place where I can put learned lessons for myself as I always feel the need after burrowing through several interesting instructions, only to realise after a lot of time that one variable changed over time that makes the instructions obsolete.
+First steps into getting a static website running. Probably this is the place where I can put learned lessons for myself as I always feel the need after digging through several interesting instructions, only to realise that one variable has changed over time making the instructions obsolete.
 
 For getting a website with Hugo up and running, the most simple instructions I found were also the official ones: https://docs.hugoblox.com/tutorial/blog/.
 

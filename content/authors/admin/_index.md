@@ -31,14 +31,11 @@ profiles:
     url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  - icon: academicons/cv
-    url: uploads/resume.pdf
-    label: Download my resume
-  - icon: rss
-    url: ./post/index.xml
-    label: Subscribe to my blog via RSS feed
+    url: https://www.linkedin.com/in/arenschleicher/
+  - icon: brands/github
+    url: https://github.com/siarener
+  - icon: brands/gitlab
+    url: https://gitlab.com/siarener
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
